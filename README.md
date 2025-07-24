@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibuhassan&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibuhassan" /> </p>
 
-- 🔭 I’m currently working on **AI based mental health model**
+- 🔭 I’m currently working on **data**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Data Science **
 
-- 👯 I’m looking to collaborate on **AI based projects**
+- 👯 I’m looking to collaborate on **ML based projects**
 
-- 🤝 I’m looking for help with **AI project**
-
-- 💬 Ask me about **react, mongodb,express and node**
+- 🤝 I’m looking for help with **Machine learning **
 
 - 📫 How to reach me **zohaibulhassan0040@gmail.com**
 
